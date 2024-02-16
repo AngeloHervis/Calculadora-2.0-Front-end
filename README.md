@@ -28,6 +28,6 @@ A Calculadora 2.0 é uma aplicação web que oferece funcionalidades avançadas 
 ## Autor
 Angelo Hervis
 - GitHub: [AngeloHervis](https://github.com/AngeloHervis)
-- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelohervis/)
+- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelo-hervis/)
 
 
